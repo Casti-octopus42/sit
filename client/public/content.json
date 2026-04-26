@@ -1,0 +1,1554 @@
+{
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "services": "Services",
+      "portfolio": "Portefeuille",
+      "blog": "Blog",
+      "contact": "Nous Contacter"
+    },
+    "hero": {
+      "title": "Transformation Numérique",
+      "subtitle": "Agence de transformation digitale en Algérie",
+      "description": "Créons ensemble votre présence numérique. Sites web, boutiques en ligne, chatbots IA et formation digitale pour les entreprises algériennes.",
+      "cta": "Commencer Maintenant",
+      "stats": [
+        {
+          "number": "+40",
+          "label": "Projets Réalisés"
+        },
+        {
+          "number": "6",
+          "label": "Wilayas Servies"
+        },
+        {
+          "number": "100%",
+          "label": "Satisfaction Clients"
+        },
+        {
+          "number": "12 mois",
+          "label": "Expérience Pratique"
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Pourquoi Nous Choisir ?",
+      "subtitle": "CASTI OCTUPUS combine expertise technique et compréhension du marché algérien",
+      "features": [
+        {
+          "title": "Expertise Locale",
+          "description": "Nous comprenons les défis uniques du marché numérique algérien"
+        },
+        {
+          "title": "Solutions Complètes",
+          "description": "Du design à la mise en ligne, nous gérons tout pour vous"
+        },
+        {
+          "title": "Support Continu",
+          "description": "Accompagnement après le lancement pour assurer votre succès"
+        },
+        {
+          "title": "Prix Compétitifs",
+          "description": "Tarifs adaptés aux entreprises algériennes, sans compromis sur la qualité"
+        }
+      ]
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Solutions numériques complètes pour votre entreprise",
+      "items": [
+        {
+          "id": "websites",
+          "title": "Création de Sites Web",
+          "description": "Sites web professionnels, modernes et optimisés pour les moteurs de recherche",
+          "icon": "🌐",
+          "price": "À partir de 55,000 DA"
+        },
+        {
+          "id": "ecommerce",
+          "title": "Boutiques en Ligne",
+          "description": "Boutiques e-commerce intégrées avec paiement Baridi mob et CIB",
+          "icon": "🛍️",
+          "price": "À partir de 120,000 DA"
+        },
+        {
+          "id": "chatbots",
+          "title": "Chatbots IA",
+          "description": "Assistants IA pour répondre aux clients 24/7 et automatiser vos processus",
+          "icon": "🤖",
+          "price": "À partir de 80,000 DA"
+        },
+        {
+          "id": "training",
+          "title": "Formation Numérique",
+          "description": "Formations pratiques en marketing digital, e-commerce et outils IA",
+          "icon": "🎓",
+          "price": "À partir de 8,000 DA/session"
+        }
+      ]
+    },
+    "packages": {
+      "title": "Nos Forfaits",
+      "subtitle": "Forfaits flexibles adaptés à la croissance de votre entreprise",
+      "items": [
+        {
+          "name": "Forfait Démarrage",
+          "icon": "🌱",
+          "price": "35,000 DA",
+          "unit": "Paiement unique",
+          "features": [
+            "Site web 5 pages",
+            "Design personnalisé",
+            "Hébergement 1 mois gratuit",
+            "SEO basique",
+            "1 session de formation",
+            "Support 30 jours"
+          ]
+        },
+        {
+          "name": "Forfait Croissance",
+          "icon": "🚀",
+          "price": "70,000 DA",
+          "unit": "Paiement unique",
+          "featured": true,
+          "features": [
+            "Boutique e-commerce complète",
+            "Intégration Baridi mob/CIB",
+            "Chatbot IA 1 mois gratuit",
+            "Formation équipe (3 sessions)",
+            "Gestion campagne publicitaire",
+            "Support 90 jours complet"
+          ]
+        },
+        {
+          "name": "Forfait Transformation Complète",
+          "icon": "🏆",
+          "price": "150,000 DA",
+          "unit": "+ 25,000 DA/mois",
+          "features": [
+            "Site web + Boutique e-commerce",
+            "Chatbot IA personnalisé",
+            "Formation équipe complète",
+            "Stratégie marketing complète",
+            "Gestion contenu 3 mois",
+            "Accompagnement permanent"
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Notre Portefeuille",
+      "subtitle": "Projets réels pour des clients réels à travers l'Algérie",
+      "filters": [
+        "Tous",
+        "Sites Web",
+        "E-commerce",
+        "IA",
+        "Formation"
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "category": "ecommerce",
+          "title": "Boutique Mode Chnoua — Tipaza",
+          "description": "Boutique vêtements féminins complète avec paiement Baridi mob et catalogue +200 produits",
+          "tags": [
+            "WordPress",
+            "WooCommerce",
+            "Baridi mob"
+          ]
+        },
+        {
+          "id": 2,
+          "category": "ai",
+          "title": "Chatbot Clinique Médicale — Blida",
+          "description": "Assistant IA répondant aux questions des patients et réservant automatiquement les rendez-vous",
+          "tags": [
+            "Chatbot IA",
+            "WhatsApp",
+            "Calendrier"
+          ]
+        },
+        {
+          "id": 3,
+          "category": "website",
+          "title": "Site Cabinet Comptable — Boumerdès",
+          "description": "Site professionnel avec section blog fiscal et pages services détaillées",
+          "tags": [
+            "React",
+            "SEO",
+            "Blog"
+          ]
+        },
+        {
+          "id": 4,
+          "category": "ecommerce",
+          "title": "Commandes en Ligne — Restaurant Chaoui",
+          "description": "Système de commandes et livraison intégré avec suivi et notifications WhatsApp",
+          "tags": [
+            "Food Order",
+            "WhatsApp API",
+            "CIB"
+          ]
+        },
+        {
+          "id": 5,
+          "category": "training",
+          "title": "Formation Marketing Digital — Chambre Commerce Tipaza",
+          "description": "Programme de formation pour 20 commerçants sur Facebook Ads et e-commerce",
+          "tags": [
+            "Facebook Ads",
+            "E-commerce",
+            "SEO"
+          ]
+        },
+        {
+          "id": 6,
+          "category": "ai",
+          "title": "Agent IA Support Technique — Entreprise Services",
+          "description": "Agent IA résolvant les problèmes clients et escaladant les cas complexes",
+          "tags": [
+            "AI Agent",
+            "Automation",
+            "CRM"
+          ]
+        }
+      ]
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Articles et guides pratiques sur la transformation numérique",
+      "articles": [
+        {
+          "id": 1,
+          "title": "Comment créer une boutique en ligne rentable en Algérie",
+          "category": "E-commerce",
+          "author": "CASTI OCTOPUS",
+          "date": "2024-04-10",
+          "readTime": "8 min",
+          "excerpt": "Guide complet pour lancer votre boutique en ligne avec les meilleures pratiques...",
+          "content": "La création d'une boutique en ligne en Algérie est devenue essentielle pour les entreprises modernes. Dans ce guide, nous explorons les étapes clés pour lancer une boutique e-commerce rentable.\n\n## Étape 1: Choisir la bonne plateforme\nLa première décision concerne le choix entre WooCommerce, Shopify ou une solution personnalisée. Chaque plateforme a ses avantages et inconvénients selon votre budget et vos besoins.\n\n## Étape 2: Optimiser pour le paiement local\nEn Algérie, les méthodes de paiement populaires incluent Bridi Mob, CIB et les virements bancaires. Assurez-vous d'intégrer ces options pour maximiser vos conversions.\n\n## Étape 3: Stratégie de contenu produit\nChaque produit doit avoir une description détaillée, des images de haute qualité et des avis clients pour renforcer la confiance.",
+          "tags": [
+            "E-commerce",
+            "Algérie",
+            "Boutique en ligne"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Les Robots Intelligents: Automatiser le Service Client",
+          "category": "IA",
+          "author": "CASTI OCTOPUS",
+          "date": "2024-04-08",
+          "readTime": "6 min",
+          "excerpt": "Découvrez comment les robots intelligents peuvent transformer votre relation client...",
+          "content": "Les robots intelligents (chatbots) révolutionnent la façon dont les entreprises interagissent avec leurs clients. Disponibles 24/7, ils offrent un support instantané et améliorent la satisfaction client.\n\n## Avantages des Chatbots\n- Réponses instantanées aux questions fréquentes\n- Réduction des coûts de support client\n- Disponibilité 24/7\n- Collecte de données client précieuses\n\n## Cas d'usage en Algérie\nDe nombreuses entreprises algériennes utilisent les chatbots pour les réservations, les commandes et le support technique. Les résultats montrent une augmentation de 40% de la satisfaction client.",
+          "tags": [
+            "IA",
+            "Chatbots",
+            "Automatisation"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "SEO Local: Comment vos clients vous trouvent sur Google",
+          "category": "SEO",
+          "author": "CASTI OCTOPUS",
+          "date": "2024-04-05",
+          "readTime": "7 min",
+          "excerpt": "Stratégies SEO adaptées au marché algérien pour augmenter votre visibilité...",
+          "content": "Le SEO local est crucial pour les entreprises algériennes qui veulent être trouvées par leurs clients locaux. Voici comment optimiser votre présence en ligne.\n\n## Optimisation Google My Business\nCréez et optimisez votre fiche Google My Business avec votre adresse, numéro de téléphone et heures d'ouverture. C'est la première étape du SEO local.\n\n## Mots-clés locaux\nUtilisez des mots-clés incluant votre wilaya ou région. Par exemple: 'plombier à Alger' au lieu de 'plombier'.",
+          "tags": [
+            "SEO",
+            "Google My Business",
+            "Marketing local"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Tendances Technologiques 2024: Ce que vous devez savoir",
+          "category": "Tendances",
+          "author": "CASTI OCTOPUS",
+          "date": "2024-04-03",
+          "readTime": "9 min",
+          "excerpt": "Les tendances technologiques qui façonnent le paysage numérique en 2024...",
+          "content": "2024 apporte de nouvelles tendances technologiques qui transforment les affaires. Voici les principales tendances à surveiller.\n\n## Intelligence Artificielle Générative\nL'IA générative comme ChatGPT change la façon dont les entreprises automatisent les tâches et créent du contenu.",
+          "tags": [
+            "Tendances",
+            "Technologie",
+            "2024"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Sécurité des données: Protéger votre boutique en ligne",
+          "category": "Sécurité",
+          "author": "CASTI OCTOPUS",
+          "date": "2024-03-31",
+          "readTime": "6 min",
+          "excerpt": "Guide complet pour sécuriser votre boutique en ligne et protéger les données clients...",
+          "content": "La sécurité est primordiale pour toute boutique en ligne. Les clients doivent faire confiance à votre plateforme avec leurs données sensibles.",
+          "tags": [
+            "Sécurité",
+            "E-commerce",
+            "Données"
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "subtitle": "Discutons de votre projet de transformation numérique",
+      "form": {
+        "name": "Nom Complet",
+        "email": "Email",
+        "phone": "Téléphone",
+        "company": "Entreprise",
+        "subject": "Sujet",
+        "message": "Message",
+        "submit": "Envoyer le Message"
+      },
+      "info": {
+        "phone": "+213 (0) 552438906",
+        "email": "castignt42@outlook.com",
+        "wilayas": "Tipaza, Blida, Boumerdès, Alger, Médéa, Ain Defla"
+      }
+    },
+    "reservation": {
+      "title": "Réservez Votre Consultation Gratuite",
+      "subtitle": "Discutez de votre projet de transformation numérique avec nos experts",
+      "selectDate": "Sélectionnez une date et une heure",
+      "availableSlots": "Créneaux disponibles",
+      "available": "disponible",
+      "noSlots": "Aucun créneau disponible pour cette date",
+      "selectedSlot": "Créneau sélectionné",
+      "yourInfo": "Vos Informations",
+      "fullName": "Nom Complet",
+      "fullNamePlaceholder": "Votre nom complet",
+      "email": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+213 (0) XXX XXX XXX",
+      "company": "Entreprise",
+      "companyPlaceholder": "Nom de votre entreprise",
+      "serviceType": "Type de Service",
+      "selectService": "Sélectionnez un service",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet ou vos questions...",
+      "selectSlot": "Veuillez sélectionner un créneau horaire",
+      "fillRequired": "Veuillez remplir tous les champs obligatoires",
+      "submit": "Réserver ma Consultation",
+      "submitting": "Réservation en cours...",
+      "success": "Votre consultation a été réservée avec succès!",
+      "error": "Une erreur s'est produite lors de la réservation"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "subtitle": "Trouvez les réponses à vos questions sur nos services",
+      "items": [
+        {
+          "id": "1",
+          "question": "Combien de temps prend la création d'un site web?",
+          "answer": "La durée dépend de la complexité de votre projet. Un site web simple prend généralement 2-4 semaines, tandis qu'une boutique en ligne peut prendre 4-8 semaines. Nous vous fournirons un calendrier détaillé lors de la consultation."
+        },
+        {
+          "id": "2",
+          "question": "Quel est le coût d'une consultation gratuite?",
+          "answer": "Notre consultation initiale est entièrement gratuite! Nous discutons de vos objectifs, analysons vos besoins et vous proposons une solution adaptée. Aucun engagement n'est nécessaire."
+        },
+        {
+          "id": "3",
+          "question": "Proposez-vous un support après le lancement?",
+          "answer": "Oui, absolument! Nous offrons un support continu et des mises à jour de maintenance. Nos forfaits incluent des heures de support mensuel et des mises à jour de sécurité régulières."
+        },
+        {
+          "id": "4",
+          "question": "Pouvez-vous intégrer mon système de paiement existant?",
+          "answer": "Oui, nous pouvons intégrer la plupart des systèmes de paiement populaires comme Stripe, PayPal, Edahabia, etc. Nous discuterons de vos besoins spécifiques lors de la consultation."
+        },
+        {
+          "id": "5",
+          "question": "Offrez-vous une formation sur l'utilisation du site?",
+          "answer": "Oui, nous incluons une formation complète sur la gestion de votre site web. Nous vous montrons comment mettre à jour le contenu, gérer les commandes et utiliser les outils d'analyse."
+        },
+        {
+          "id": "6",
+          "question": "Mes données seront-elles sécurisées?",
+          "answer": "La sécurité est notre priorité absolue. Nous utilisons le chiffrement SSL, les sauvegardes régulières et les mises à jour de sécurité. Tous les sites sont hébergés sur des serveurs sécurisés avec protection DDoS."
+        },
+        {
+          "id": "7",
+          "question": "Pouvez-vous optimiser mon site pour le SEO?",
+          "answer": "Oui, l'optimisation SEO est incluse dans nos services. Nous optimisons la structure, les métadonnées, la vitesse et le contenu pour améliorer votre classement dans les moteurs de recherche."
+        },
+        {
+          "id": "8",
+          "question": "Quel est le délai de réponse pour les demandes de support?",
+          "answer": "Nous visons une réponse dans les 24 heures pour les demandes de support. Pour les problèmes critiques, nous offrons un support prioritaire avec réponse en moins de 4 heures."
+        }
+      ]
+    },
+    "footer": {
+      "tagline": "Transformons ensemble votre présence numérique",
+      "links": {
+        "company": [
+          "À Propos",
+          "Services",
+          "Portefeuille",
+          "Blog"
+        ],
+        "resources": [
+          "Documentation",
+          "FAQ",
+          "Guides",
+          "Tutoriels"
+        ],
+        "legal": [
+          "Politique de Confidentialité",
+          "Conditions d'Utilisation",
+          "Mentions Légales"
+        ]
+      }
+    },
+    "serviceCategories": [
+      {
+        "id": "web-ecommerce",
+        "title": "🌐 Services Numériques & E-Commerce",
+        "subtitle": "Transformation digitale complète pour votre entreprise",
+        "description": "Créez votre présence en ligne avec des solutions web modernes, e-commerce haute conversion et applications web personnalisées. Nous accompagnons les entreprises algériennes dans leur transformation numérique avec des technologies éprouvées et un support local.",
+        "useCases": [
+          "Petits commerces et boutiques",
+          "PME/PMI en croissance",
+          "Grandes entreprises",
+          "Administrations publiques"
+        ],
+        "subServices": [
+          {
+            "name": "Sites vitrines modernes",
+            "description": "Présentation professionnelle de votre entreprise avec design responsive et SEO optimisé"
+          },
+          {
+            "name": "E-commerce haute conversion",
+            "description": "Boutiques en ligne avec panier, paiements SATIM/Edahabia et gestion stock automatique"
+          },
+          {
+            "name": "Applications web custom",
+            "description": "Solutions sur mesure adaptées à vos processus métier spécifiques"
+          },
+          {
+            "name": "Optimisation SEO",
+            "description": "Positionnement Google pour générer du trafic organique qualifié"
+          },
+          {
+            "name": "Design responsive mobile",
+            "description": "Adaptation parfaite sur tous les appareils (desktop, tablette, mobile)"
+          },
+          {
+            "name": "Paiements sécurisés",
+            "description": "Intégration SATIM, Edahabia et autres passerelles de paiement locales"
+          },
+          {
+            "name": "Hébergement & domaine",
+            "description": "Infrastructure sécurisée avec uptime 99.9% garanti"
+          },
+          {
+            "name": "Support technique inclus",
+            "description": "Assistance 24/7 pour la maintenance et les mises à jour"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Starter",
+            "price": "250,000 DA",
+            "features": [
+              "Site vitrine 5-8 pages",
+              "Design responsive",
+              "Formulaires contact",
+              "Blog basique",
+              "SEO de base",
+              "1 mois support",
+              "Hébergement 1 an"
+            ]
+          },
+          {
+            "name": "Professional",
+            "price": "800,000 DA",
+            "popular": true,
+            "features": [
+              "E-commerce jusqu'à 100 produits",
+              "Panier & paiement SATIM",
+              "Gestion stock automatique",
+              "Analytics avancé",
+              "SEO complet",
+              "3 mois support",
+              "Hébergement 1 an"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "À partir de 2,000,000 DA",
+            "features": [
+              "E-commerce illimité",
+              "Multi-langue/devise",
+              "Intégration ERP/CRM",
+              "Automation marketing",
+              "Optimisation conversion",
+              "6-12 mois support",
+              "Hébergement premium"
+            ]
+          }
+        ],
+        "technologies": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Stripe",
+          "SATIM",
+          "AWS"
+        ],
+        "price_range": "250,000 - 5,000,000+ DA"
+      },
+      {
+        "id": "design-branding",
+        "title": "🎨 Design Graphique & Branding",
+        "subtitle": "Créez une identité visuelle mémorable",
+        "description": "Donnez vie à votre marque avec un design professionnel et cohérent. Du logo au branding complet, nous créons une identité visuelle qui vous distingue de la concurrence et renforce la confiance de vos clients.",
+        "useCases": [
+          "Startups et nouvelles entreprises",
+          "Rebranding d'entreprises existantes",
+          "PME cherchant une identité visuelle",
+          "Agences et consultants"
+        ],
+        "subServices": [
+          {
+            "name": "Design logos et branding",
+            "description": "Création de logos uniques et guidelines de marque complets"
+          },
+          {
+            "name": "Cartes de visite",
+            "description": "Impression premium avec finitions spécialisées"
+          },
+          {
+            "name": "Flyers & posters",
+            "description": "Création et impression de matériels marketing"
+          },
+          {
+            "name": "Impression couleur/grand format",
+            "description": "Bandeaux, affiches et supports publicitaires"
+          },
+          {
+            "name": "Finitions spécialisées",
+            "description": "Vernis sélectif, gaufrage, dorure et pelliculage"
+          },
+          {
+            "name": "Délai express 24-48h",
+            "description": "Livraison rapide pour vos projets urgents"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Starter",
+            "price": "50,000 DA",
+            "features": [
+              "Logo simple",
+              "Carte de visite",
+              "Papier en-tête",
+              "Fichiers sources"
+            ]
+          },
+          {
+            "name": "Professional",
+            "price": "150,000 DA",
+            "popular": true,
+            "features": [
+              "Logo + variantes",
+              "Guidelines complets",
+              "Cartes de visite premium",
+              "Flyers A5",
+              "Papier en-tête",
+              "Enveloppes"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "500,000 DA",
+            "features": [
+              "Branding complet",
+              "Logo + variantes",
+              "Guidelines détaillés",
+              "Tous supports print",
+              "Templates digitaux",
+              "Consultation illimitée"
+            ]
+          }
+        ],
+        "technologies": [
+          "Figma",
+          "Adobe Creative Suite",
+          "Illustrator",
+          "Photoshop"
+        ],
+        "price_range": "8,000 - 500,000 DA"
+      },
+      {
+        "id": "informatique-it",
+        "title": "💻 Informatique & Solutions IT",
+        "subtitle": "Infrastructure IT robuste et sécurisée",
+        "description": "Modernisez votre infrastructure informatique avec des solutions professionnelles. De la vente d'équipements à la maintenance 24/7, nous assurons la continuité de votre activité numérique.",
+        "useCases": [
+          "PME cherchant à moderniser leur IT",
+          "Entreprises nécessitant une maintenance",
+          "Organisations critiques",
+          "Administrations publiques"
+        ],
+        "subServices": [
+          {
+            "name": "Vente ordinateurs",
+            "description": "Ordinateurs Dell, Lenovo, HP configurés sur mesure"
+          },
+          {
+            "name": "Serveurs & stockage",
+            "description": "Infrastructure serveur et solutions de stockage sécurisé"
+          },
+          {
+            "name": "Réseaux LAN/WIFI professionnels",
+            "description": "Installation et configuration de réseaux performants"
+          },
+          {
+            "name": "Cybersécurité & Firewall",
+            "description": "Protection contre les menaces et accès non autorisés"
+          },
+          {
+            "name": "Maintenance IT 24/7",
+            "description": "Support technique permanent pour minimiser les arrêts"
+          },
+          {
+            "name": "Audit de sécurité",
+            "description": "Évaluation complète de votre infrastructure IT"
+          },
+          {
+            "name": "Formation utilisateurs",
+            "description": "Formation pratique pour optimiser l'utilisation des outils"
+          },
+          {
+            "name": "Monitoring infrastructure",
+            "description": "Surveillance continue de vos systèmes"
+          }
+        ],
+        "packages": [
+          {
+            "name": "PME",
+            "price": "150,000 - 500,000 DA",
+            "features": [
+              "5-10 postes informatiques",
+              "Serveur NAS",
+              "Réseau WIFI",
+              "Firewall",
+              "Support 24/5",
+              "Maintenance mensuelle"
+            ]
+          },
+          {
+            "name": "Entreprise",
+            "price": "500,000 - 2,000,000 DA",
+            "popular": true,
+            "features": [
+              "Infrastructure complète",
+              "Serveurs redondants",
+              "Backup automatique",
+              "Cybersécurité avancée",
+              "Support 24/7",
+              "Audit mensuel"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "Sur devis",
+            "features": [
+              "Infrastructure custom",
+              "Haute disponibilité",
+              "Disaster recovery",
+              "Compliance certifications",
+              "Support dédié",
+              "SLA garanti"
+            ]
+          }
+        ],
+        "technologies": [
+          "Cisco",
+          "Fortinet",
+          "Hikvision",
+          "Dell",
+          "Lenovo",
+          "VMware"
+        ],
+        "price_range": "150,000 - 2,000,000 DA"
+      },
+      {
+        "id": "securite-surveillance",
+        "title": "🔒 Sécurité & Surveillance",
+        "subtitle": "Protégez vos locaux 24/7",
+        "description": "Systèmes de surveillance professionnels avec caméras haute résolution et monitoring cloud. Sécurisez vos locaux avec une technologie fiable et un support technique réactif.",
+        "useCases": [
+          "Petits commerces",
+          "PME et bureaux",
+          "Banques et institutions financières",
+          "Usines et entrepôts"
+        ],
+        "subServices": [
+          {
+            "name": "Installation CCTV",
+            "description": "Installation de systèmes CCTV IP et analogiques"
+          },
+          {
+            "name": "Caméras haute résolution",
+            "description": "Caméras 2MP à 8MP pour une qualité d'image optimale"
+          },
+          {
+            "name": "Monitoring cloud 24/7",
+            "description": "Accès à distance et alertes en temps réel"
+          },
+          {
+            "name": "Détection intelligente mouvements",
+            "description": "Alertes automatiques en cas de mouvement détecté"
+          },
+          {
+            "name": "Accès mobile iOS/Android",
+            "description": "Consultez vos caméras depuis votre smartphone"
+          },
+          {
+            "name": "Alertes SMS/Email",
+            "description": "Notifications instantanées en cas d'incident"
+          },
+          {
+            "name": "Contrôle d'accès biométrique",
+            "description": "Gestion des accès par empreinte ou reconnaissance faciale"
+          },
+          {
+            "name": "Support 24/7",
+            "description": "Assistance technique permanente"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Petit Commerce",
+            "price": "80,000 - 150,000 DA",
+            "features": [
+              "2-4 caméras IP 2MP",
+              "NVR 4 canaux",
+              "Écran monitoring 21\"",
+              "Installation + câblage",
+              "Logiciel + app mobile",
+              "Stockage 30 jours"
+            ]
+          },
+          {
+            "name": "PME",
+            "price": "350,000 - 600,000 DA",
+            "popular": true,
+            "features": [
+              "5-8 caméras IP 4MP",
+              "NVR 8 canaux",
+              "2x écrans monitoring",
+              "Installation professionnelle",
+              "Logiciel avancé",
+              "Stockage 60 jours",
+              "Support 24/7"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "1,200,000+ DA",
+            "features": [
+              "9+ caméras custom",
+              "Caméras PTZ",
+              "Serveur redondant",
+              "Stockage illimité SSD",
+              "Analytics avancé",
+              "Centre supervision",
+              "Support dédié"
+            ]
+          }
+        ],
+        "technologies": [
+          "Hikvision",
+          "Dahua",
+          "Axis",
+          "Uniview",
+          "Bosch"
+        ],
+        "price_range": "80,000 - 2,000,000 DA"
+      },
+      {
+        "id": "formation-conseil",
+        "title": "📚 Formation & Conseil",
+        "subtitle": "Développez les compétences de votre équipe",
+        "description": "Formations pratiques et accompagnement stratégique pour transformer votre organisation. De la bureautique à la transformation digitale, nous adaptons nos programmes à vos besoins spécifiques.",
+        "useCases": [
+          "Entreprises en transformation digitale",
+          "Équipes IT nécessitant une montée en compétences",
+          "Administrations publiques",
+          "Centres de formation"
+        ],
+        "subServices": [
+          {
+            "name": "Formation IT/Bureautique",
+            "description": "Formations pratiques sur les outils informatiques"
+          },
+          {
+            "name": "Workshops personnalisés",
+            "description": "Sessions de formation adaptées à votre contexte"
+          },
+          {
+            "name": "Consulting stratégique",
+            "description": "Accompagnement dans vos projets de transformation"
+          },
+          {
+            "name": "Support utilisateurs",
+            "description": "Assistance continue pour l'adoption des nouveaux outils"
+          },
+          {
+            "name": "Accompagnement digital",
+            "description": "Coaching pour la transition digitale"
+          },
+          {
+            "name": "Certification Microsoft",
+            "description": "Préparation aux certifications Microsoft"
+          },
+          {
+            "name": "Coaching 1-on-1",
+            "description": "Mentorat personnalisé pour cadres et managers"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Formation Groupe",
+            "price": "50,000 - 200,000 DA",
+            "features": [
+              "Jusqu'à 15 participants",
+              "2-5 jours de formation",
+              "Certificat de participation",
+              "Supports de cours",
+              "Exercices pratiques"
+            ]
+          },
+          {
+            "name": "Consulting",
+            "price": "300,000 - 800,000 DA",
+            "popular": true,
+            "features": [
+              "Audit initial",
+              "Plan d'action détaillé",
+              "Accompagnement 3 mois",
+              "Rapports mensuels",
+              "Formation équipe"
+            ]
+          },
+          {
+            "name": "Programme Complet",
+            "price": "1,000,000+ DA",
+            "features": [
+              "Diagnostic complet",
+              "Stratégie personnalisée",
+              "Accompagnement 6-12 mois",
+              "Formation continue",
+              "Support dédié",
+              "Certification"
+            ]
+          }
+        ],
+        "technologies": [
+          "Microsoft 365",
+          "Google Workspace",
+          "Agile",
+          "Scrum"
+        ],
+        "price_range": "50,000 - 1,000,000 DA"
+      },
+      {
+        "id": "commerce-fournitures",
+        "title": "🛍️ Vente Produits & Fournitures",
+        "subtitle": "Votre fournisseur de confiance",
+        "description": "Large gamme de produits informatiques, électroniques et fournitures de bureau. Stock permanent, livraison rapide et service client réactif pour les professionnels et particuliers.",
+        "useCases": [
+          "Petits commerces",
+          "Écoles et établissements",
+          "Entreprises",
+          "Particuliers"
+        ],
+        "subServices": [
+          {
+            "name": "Vente ordinateurs & mobiles",
+            "description": "Ordinateurs, laptops et téléphones de marques reconnues"
+          },
+          {
+            "name": "Accessoires électroniques",
+            "description": "Souris, claviers, câbles et accessoires informatiques"
+          },
+          {
+            "name": "Réparation appareils",
+            "description": "Service de réparation rapide et fiable"
+          },
+          {
+            "name": "Papeterie & fournitures scolaires",
+            "description": "Complète gamme de fournitures de bureau et scolaires"
+          },
+          {
+            "name": "Livres & références",
+            "description": "Sélection de livres techniques et de référence"
+          },
+          {
+            "name": "Stock permanent",
+            "description": "Disponibilité constante des produits"
+          },
+          {
+            "name": "Vente en gros",
+            "description": "Réductions volume pour les commandes importantes"
+          },
+          {
+            "name": "Service click & collect",
+            "description": "Commandez en ligne, retirez en magasin"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Particulier",
+            "price": "Variables",
+            "features": [
+              "Accès au stock complet",
+              "Livraison gratuite +30,000 DA",
+              "Garantie constructeur",
+              "Support client"
+            ]
+          },
+          {
+            "name": "Professionnel",
+            "price": "Réductions volume",
+            "popular": true,
+            "features": [
+              "Compte professionnel",
+              "Réductions 10-20%",
+              "Livraison prioritaire",
+              "Factures mensuelles",
+              "Support dédié"
+            ]
+          },
+          {
+            "name": "B2B Entreprise",
+            "price": "Sur devis",
+            "features": [
+              "Réductions 20-40%",
+              "Livraison gratuite",
+              "Conditions paiement",
+              "Account manager",
+              "Support prioritaire"
+            ]
+          }
+        ],
+        "technologies": [
+          "Dell",
+          "Lenovo",
+          "HP",
+          "Apple",
+          "Samsung"
+        ],
+        "price_range": "Variables par article"
+      }
+    ],
+    "testimonials": {
+      "title": "Témoignages de Nos Clients",
+      "subtitle": "Découvrez comment nous avons transformé les entreprises algériennes",
+      "items": [
+        {
+          "id": 1,
+          "name": "Ahmed Benali",
+          "company": "E-Commerce Algérie",
+          "role": "Directeur Général",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-1.webp",
+          "text": "CASTI OCTUPUS a complètement transformé notre présence en ligne. Notre boutique en ligne a augmenté les ventes de 300% en 6 mois!",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "name": "Fatima Khoury",
+          "company": "Cabinet Juridique",
+          "role": "Associée",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-2.webp",
+          "text": "Le chatbot IA qu'ils ont développé pour nous gère 80% de nos demandes clients. Un vrai gain de temps et d'efficacité!",
+          "rating": 5
+        },
+        {
+          "id": 3,
+          "name": "Mohamed Saïd",
+          "company": "Agence Immobilière",
+          "role": "Propriétaire",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-3.webp",
+          "text": "Professionnels, réactifs et à l'écoute. Ils ont compris nos besoins et livré exactement ce que nous attendions.",
+          "rating": 5
+        },
+        {
+          "id": 4,
+          "name": "Leila Hamza",
+          "company": "Startup Tech",
+          "role": "Fondatrice",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-4.webp",
+          "text": "Meilleur investissement pour notre startup. Leur expertise en SEO nous a mis en première page Google en 3 mois.",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "services": "الخدمات",
+      "portfolio": "المحفظة",
+      "blog": "المدونة",
+      "contact": "تواصل معنا"
+    },
+    "hero": {
+      "title": "التحول الرقمي",
+      "subtitle": "وكالة التحول الرقمي — الجزائر",
+      "description": "لننشئ معاً حضورك الرقمي. مواقع ويب، متاجر إلكترونية، روبوتات ذكية وتكوين رقمي للشركات الجزائرية.",
+      "cta": "ابدأ الآن",
+      "stats": [
+        {
+          "number": "+40",
+          "label": "مشروع مُنجز"
+        },
+        {
+          "number": "6",
+          "label": "ولايات مُخدَّمة"
+        },
+        {
+          "number": "100%",
+          "label": "رضا العملاء"
+        },
+        {
+          "number": "12 شهر",
+          "label": "خبرة عملية"
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "لماذا تختارنا؟",
+      "subtitle": "كاستي أوكتوبس تجمع بين الخبرة التقنية وفهم السوق الجزائري",
+      "features": [
+        {
+          "title": "خبرة محلية",
+          "description": "نفهم التحديات الفريدة للسوق الرقمي الجزائري"
+        },
+        {
+          "title": "حلول شاملة",
+          "description": "من التصميم إلى الإطلاق، نتولى كل شيء من أجلك"
+        },
+        {
+          "title": "دعم مستمر",
+          "description": "مرافقة بعد الإطلاق لضمان نجاحك"
+        },
+        {
+          "title": "أسعار تنافسية",
+          "description": "أسعار مناسبة للشركات الجزائرية بدون المساس بالجودة"
+        }
+      ]
+    },
+    "services": {
+      "title": "خدماتنا",
+      "subtitle": "حلول رقمية شاملة لشركتك",
+      "items": [
+        {
+          "id": "websites",
+          "title": "إنشاء مواقع ويب",
+          "description": "مواقع ويب احترافية وحديثة ومُحسَّنة لمحركات البحث",
+          "icon": "🌐",
+          "price": "من 55,000 دج"
+        },
+        {
+          "id": "ecommerce",
+          "title": "متاجر إلكترونية",
+          "description": "متاجر إلكترونية متكاملة مع دفع بريدي موب و CIB",
+          "icon": "🛍️",
+          "price": "من 120,000 دج"
+        },
+        {
+          "id": "chatbots",
+          "title": "روبوتات ذكية",
+          "description": "مساعدات ذكية للرد على العملاء 24/7 وأتمتة عملياتك",
+          "icon": "🤖",
+          "price": "من 80,000 دج"
+        },
+        {
+          "id": "training",
+          "title": "تكوين رقمي",
+          "description": "تكوينات عملية في التسويق الرقمي والتجارة الإلكترونية وأدوات الذكاء الاصطناعي",
+          "icon": "🎓",
+          "price": "من 8,000 دج/جلسة"
+        }
+      ]
+    },
+    "packages": {
+      "title": "الباقات",
+      "subtitle": "باقات مرنة مُصمَّمة حسب مراحل نمو مشروعك",
+      "items": [
+        {
+          "name": "باقة الانطلاقة",
+          "icon": "🌱",
+          "price": "55,000 دج",
+          "unit": "دفعة واحدة",
+          "features": [
+            "موقع ويب 5 صفحات",
+            "تصميم مخصص",
+            "استضافة شهر مجاني",
+            "SEO أساسي",
+            "جلسة تدريب واحدة",
+            "دعم 30 يوم"
+          ]
+        },
+        {
+          "name": "باقة النمو",
+          "icon": "🚀",
+          "price": "120,000 دج",
+          "unit": "دفعة واحدة",
+          "featured": true,
+          "features": [
+            "متجر إلكتروني كامل",
+            "دمج بريدي موب/CIB",
+            "روبوت ذكي شهر مجاني",
+            "تدريب الفريق (3 جلسات)",
+            "إدارة حملة إعلانية",
+            "دعم 90 يوم كامل"
+          ]
+        },
+        {
+          "name": "باقة التحول الكامل",
+          "icon": "🏆",
+          "price": "200,000 دج",
+          "unit": "+ 25,000 دج/شهر",
+          "features": [
+            "موقع ويب + متجر إلكتروني",
+            "روبوت ذكي مخصص",
+            "تكوين شامل للفريق",
+            "استراتيجية تسويق كاملة",
+            "إدارة محتوى 3 أشهر",
+            "مرافقة دائمة ومتابعة"
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "محفظة أعمالنا",
+      "subtitle": "مشاريع حقيقية لعملاء حقيقيين من الولايات الوسطى للجزائر",
+      "filters": [
+        "الكل",
+        "مواقع ويب",
+        "متاجر إلكترونية",
+        "ذكاء اصطناعي",
+        "تكوين"
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "category": "ecommerce",
+          "title": "متجر أزياء الشنوة — تيبازة",
+          "description": "متجر ملابس نسائية متكامل مع دفع بريدي موب وكتالوج +200 منتج",
+          "tags": [
+            "WordPress",
+            "WooCommerce",
+            "بريدي موب"
+          ]
+        },
+        {
+          "id": 2,
+          "category": "ai",
+          "title": "روبوت عيادة طبية — البليدة",
+          "description": "مساعد ذكي يرد على استفسارات المرضى ويحجز المواعيد تلقائياً",
+          "tags": [
+            "روبوت ذكي",
+            "واتساب",
+            "تقويم"
+          ]
+        },
+        {
+          "id": 3,
+          "category": "website",
+          "title": "موقع مكتب محاسبة — بومرداس",
+          "description": "موقع احترافي مع قسم المدونة الضريبية وصفحة الخدمات التفصيلية",
+          "tags": [
+            "React",
+            "SEO",
+            "مدونة"
+          ]
+        },
+        {
+          "id": 4,
+          "category": "ecommerce",
+          "title": "طلبات أون لاين — مطعم الشاوية",
+          "description": "منظومة طلبات وتوصيل متكاملة مع تتبع الطلبات وإشعارات واتساب",
+          "tags": [
+            "طلبات طعام",
+            "واتساب API",
+            "CIB"
+          ]
+        },
+        {
+          "id": 5,
+          "category": "training",
+          "title": "دورة التسويق الرقمي — غرفة تجارة تيبازة",
+          "description": "برنامج تكويني لـ 20 تاجر حول Facebook Ads وإدارة المتاجر الإلكترونية",
+          "tags": [
+            "Facebook Ads",
+            "تجارة إلكترونية",
+            "SEO"
+          ]
+        },
+        {
+          "id": 6,
+          "category": "ai",
+          "title": "وكيل ذكي للدعم التقني — شركة خدمات",
+          "description": "عميل ذكي يحل مشاكل العملاء ويُصعّد الحالات المعقدة للفريق البشري",
+          "tags": [
+            "وكيل ذكي",
+            "أتمتة",
+            "CRM"
+          ]
+        }
+      ]
+    },
+    "blog": {
+      "title": "المدونة",
+      "subtitle": "مقالات وأدلة عملية ونصائح التحول الرقمي",
+      "articles": [
+        {
+          "id": 1,
+          "title": "كيفية إنشاء متجر إلكتروني مربح في الجزائر",
+          "category": "تجارة إلكترونية",
+          "author": "كاستي أوكتوبس",
+          "date": "2024-04-10",
+          "readTime": "8 دقائق",
+          "excerpt": "دليل شامل لإطلاق متجرك الإلكتروني مع أفضل الممارسات...",
+          "content": "أصبح إنشاء متجر إلكتروني في الجزائر ضروريًا للشركات الحديثة. في هذا الدليل، نستكشف الخطوات الرئيسية لإطلاق متجر تجارة إلكترونية مربح.\n\n## الخطوة 1: اختيار المنصة المناسبة\nالقرار الأول يتعلق بالاختيار بين WooCommerce أو Shopify أو حل مخصص. لكل منصة مزاياها وعيوبها حسب ميزانيتك واحتياجاتك.",
+          "tags": [
+            "تجارة إلكترونية",
+            "الجزائر",
+            "متجر على الإنترنت"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "الروبوتات الذكية: أتمتة خدمة العملاء",
+          "category": "ذكاء اصطناعي",
+          "author": "كاستي أوكتوبس",
+          "date": "2024-04-08",
+          "readTime": "6 دقائق",
+          "excerpt": "اكتشف كيف يمكن للروبوتات الذكية تحويل علاقتك مع العملاء...",
+          "content": "تُحدث الروبوتات الذكية (chatbots) ثورة في الطريقة التي تتفاعل بها الشركات مع عملائها. متاحة 24/7، توفر دعمًا فوريًا وتحسن رضا العملاء.",
+          "tags": [
+            "ذكاء اصطناعي",
+            "روبوتات ذكية",
+            "الأتمتة"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "SEO محلي: كيف يجدك عملاؤك على Google",
+          "category": "SEO",
+          "author": "كاستي أوكتوبس",
+          "date": "2024-04-05",
+          "readTime": "7 دقائق",
+          "excerpt": "استراتيجيات SEO مخصصة للسوق الجزائري لزيادة رؤيتك...",
+          "content": "يعتبر SEO المحلي حاسمًا للشركات الجزائرية التي تريد أن يجدها عملاؤها المحليون. إليك كيفية تحسين حضورك على الإنترنت.",
+          "tags": [
+            "SEO",
+            "Google My Business",
+            "التسويق المحلي"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "اتجاهات التكنولوجيا 2024: ما تحتاج إلى معرفته",
+          "category": "اتجاهات",
+          "author": "كاستي أوكتوبس",
+          "date": "2024-04-03",
+          "readTime": "9 دقائق",
+          "excerpt": "الاتجاهات التكنولوجية التي تشكل المشهد الرقمي في 2024...",
+          "content": "يجلب عام 2024 اتجاهات تكنولوجية جديدة تحول الأعمال. إليك الاتجاهات الرئيسية التي يجب مراقبتها.",
+          "tags": [
+            "اتجاهات",
+            "تكنولوجيا",
+            "2024"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "أمان البيانات: حماية متجرك الإلكتروني",
+          "category": "الأمان",
+          "author": "كاستي أوكتوبس",
+          "date": "2024-03-31",
+          "readTime": "6 دقائق",
+          "excerpt": "دليل شامل لتأمين متجرك الإلكتروني وحماية بيانات العملاء...",
+          "content": "الأمان أمر بالغ الأهمية لأي متجر إلكتروني. يجب أن يثق العملاء بمنصتك ببيانات حساسة.",
+          "tags": [
+            "الأمان",
+            "التجارة الإلكترونية",
+            "البيانات"
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "تواصل معنا",
+      "subtitle": "لنناقش مشروعك في التحول الرقمي",
+      "form": {
+        "name": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "company": "الشركة",
+        "subject": "الموضوع",
+        "message": "الرسالة",
+        "submit": "إرسال الرسالة"
+      },
+      "info": {
+        "phone": "+213 (0) 552438906",
+        "email": "castignt42@outlook.com",
+        "wilayas": "تيبازة، البليدة، بومرداس، الجزائر، المدية، عين الدفلى"
+      }
+    },
+    "reservation": {
+      "title": "احجز استشارتك المجانية",
+      "subtitle": "ناقش مشروع التحول الرقمي الخاص بك مع خبرائنا",
+      "selectDate": "اختر التاريخ والوقت",
+      "availableSlots": "الفترات الزمنية المتاحة",
+      "available": "متاح",
+      "noSlots": "لا توجد فترات زمنية متاحة لهذا التاريخ",
+      "selectedSlot": "الفترة الزمنية المختارة",
+      "yourInfo": "معلوماتك",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "your@email.com",
+      "phone": "رقم الهاتف",
+      "phonePlaceholder": "+213 (0) XXX XXX XXX",
+      "company": "الشركة",
+      "companyPlaceholder": "اسم شركتك",
+      "serviceType": "نوع الخدمة",
+      "selectService": "اختر خدمة",
+      "message": "الرسالة",
+      "messagePlaceholder": "صف مشروعك أو أسئلتك...",
+      "selectSlot": "يرجى اختيار فترة زمنية",
+      "fillRequired": "يرجى ملء جميع الحقول المطلوبة",
+      "submit": "احجز استشارتي",
+      "submitting": "جاري الحجز...",
+      "success": "تم حجز استشارتك بنجاح!",
+      "error": "حدث خطأ أثناء الحجز"
+    },
+    "footer": {
+      "tagline": "لننقل معاً حضورك الرقمي إلى المستقبل",
+      "links": {
+        "company": [
+          "من نحن",
+          "الخدمات",
+          "المحفظة",
+          "المدونة"
+        ],
+        "resources": [
+          "التوثيق",
+          "الأسئلة الشائعة",
+          "الأدلة",
+          "الدروس"
+        ],
+        "legal": [
+          "سياسة الخصوصية",
+          "شروط الاستخدام",
+          "الإشعارات القانونية"
+        ]
+      }
+    },
+    "faq": {
+      "title": "الأسئلة الشائعة",
+      "subtitle": "ابحث عن إجابات لأسئلتك حول خدماتنا",
+      "items": [
+        {
+          "id": "1",
+          "question": "ما هو الوقت المستغرق لإنشاء موقع ويب؟",
+          "answer": "يعتمد الوقت على تعقيد مشروعك. يستغرق موقع ويب بسيط عادة 2-4 أسابيع، بينما قد يستغرق متجر إلكتروني 4-8 أسابيع. سنزودك بالجدول الزمني التفصيلي عند الاستشارة."
+        },
+        {
+          "id": "2",
+          "question": "هل الاستشارة مجانية بالفعل؟",
+          "answer": "نعم، الاستشارة الأولية مجانية بالكامل! نناقش أهدافك ونحلل احتياجاتك ونقدم لك حلاً مخصصاً. لا يوجد أي التزام."
+        },
+        {
+          "id": "3",
+          "question": "هل تقدمون دعماً بعد الإطلاق؟",
+          "answer": "نعم، بالتأكيد! نقدم دعماً مستمراً وتحديثات الصيانة. تشمل الحزم ساعات دعم شهرية وتحديثات أمان منتظمة."
+        },
+        {
+          "id": "4",
+          "question": "هل يمكنكم دمج نظام الدفع الموجود لدي؟",
+          "answer": "نعم، يمكننا دمج معظم أنظمة الدفع الشهيرة مثل Stripe و PayPal و Edahabia وغيرها. سننا قش احتياجاتك المحددة عند الاستشارة."
+        },
+        {
+          "id": "5",
+          "question": "هل تقدمون تدريباً على استخدام موقعك؟",
+          "answer": "نعم، نقدم تدريباً شاملاً على إدارة موقعك. نعلمك كيفية تحديث المحتوى وإدارة الطلبات واستخدام أدوات التحليل."
+        },
+        {
+          "id": "6",
+          "question": "هل بياناتي آمنة؟",
+          "answer": "الأمان هو أولويتنا الأعلى. نستخدم التشفير SSL والنسخ الاحتياطي المنتظمة وتحديثات الأمان. جميع المواقع مستضافة على خوادم آمنة مع حماية DDoS."
+        },
+        {
+          "id": "7",
+          "question": "هل يمكنكم تحسين موقعي للبحث؟",
+          "answer": "نعم، التحسين لمحركات البحث متضمن في خدماتنا. نحسّن البنية والبيانات الوصفية والسرعة والمحتوى لتحسين الترتيب."
+        },
+        {
+          "id": "8",
+          "question": "ما هو وقت الرد على طلبات الدعم؟",
+          "answer": "نهدف للرد في خلال 24 ساعة لطلبات الدعم. بالنسبة للمشاكل الحرجة، نقدم دعماً معجلاً برد أقل من 4 ساعات."
+        }
+      ]
+    },
+    "serviceCategories": [
+      {
+        "id": "web-ecommerce",
+        "title": "🌐 الخدمات الرقمية والتجارة الإلكترونية",
+        "subtitle": "التحول الرقمي الكامل لشركتك",
+        "description": "أنشئ وجودك على الإنترنت من خلال حلول ويب حديثة وتجارة إلكترونية عالية التحويل وتطبيقات ويب مخصصة. نحن نرافق الشركات الجزائرية في تحولها الرقمي باستخدام تقنيات مثبتة والدعم المحلي.",
+        "useCases": [
+          "المتاجر الصغيرة والمحلات",
+          "الشركات الصغيرة والمتوسطة",
+          "الشركات الكبرى",
+          "الإدارات العامة"
+        ],
+        "subServices": [
+          {
+            "name": "مواقع عرض حديثة",
+            "description": "عرض احترافي لشركتك مع تصميم متجاوب وتحسين محركات البحث"
+          },
+          {
+            "name": "متاجر إلكترونية عالية التحويل",
+            "description": "متاجر على الإنترنت مع سلة تسوق ودفع SATIM/Edahabia وإدارة المخزون التلقائية"
+          },
+          {
+            "name": "تطبيقات ويب مخصصة",
+            "description": "حلول مخصصة تتناسب مع عملياتك التجارية المحددة"
+          },
+          {
+            "name": "تحسين محركات البحث",
+            "description": "تصنيف جوجل لتوليد حركة مرور عضوية مؤهلة"
+          },
+          {
+            "name": "تصميم متجاوب للهاتف المحمول",
+            "description": "التكيف المثالي على جميع الأجهزة (سطح المكتب والجهاز اللوحي والهاتف المحمول)"
+          },
+          {
+            "name": "الدفع الآمن",
+            "description": "تكامل SATIM و Edahabia وبوابات دفع محلية أخرى"
+          },
+          {
+            "name": "الاستضافة والنطاق",
+            "description": "بنية تحتية آمنة مع وقت تشغيل مضمون بنسبة 99.9%"
+          },
+          {
+            "name": "الدعم الفني المضمن",
+            "description": "المساعدة 24/7 للصيانة والتحديثات"
+          }
+        ],
+        "packages": [
+          {
+            "name": "البدء",
+            "price": "250,000 دج",
+            "features": [
+              "موقع عرض 5-8 صفحات",
+              "تصميم متجاوب",
+              "نماذج الاتصال",
+              "مدونة أساسية",
+              "تحسين محركات البحث الأساسي",
+              "دعم شهر واحد",
+              "استضافة سنة واحدة"
+            ]
+          },
+          {
+            "name": "احترافي",
+            "price": "800,000 دج",
+            "popular": true,
+            "features": [
+              "متجر إلكتروني يصل إلى 100 منتج",
+              "سلة التسوق والدفع SATIM",
+              "إدارة المخزون التلقائية",
+              "تحليلات متقدمة",
+              "تحسين محركات البحث الكامل",
+              "دعم 3 أشهر",
+              "استضافة سنة واحدة"
+            ]
+          },
+          {
+            "name": "مؤسسة",
+            "price": "من 2,000,000 دج",
+            "features": [
+              "متجر إلكتروني غير محدود",
+              "لغات ومحافظ متعددة",
+              "تكامل ERP/CRM",
+              "أتمتة التسويق",
+              "تحسين معدل التحويل",
+              "دعم 6-12 شهر",
+              "استضافة متميزة"
+            ]
+          }
+        ],
+        "technologies": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Stripe",
+          "SATIM",
+          "AWS"
+        ],
+        "price_range": "250,000 - 5,000,000+ دج"
+      }
+    ],
+    "testimonials": {
+      "title": "شهادات عملائنا",
+      "subtitle": "اكتشف كيف حولنا الشركات الجزائرية",
+      "items": [
+        {
+          "id": 1,
+          "name": "أحمد بن علي",
+          "company": "التجارة الإلكترونية الجزائر",
+          "role": "المدير العام",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-1.webp",
+          "text": "غيرت كاستي أوكتوبس وجودنا على الإنترنت تماماً. زادت مبيعات متجرنا الإلكتروني بنسبة 300% في 6 أشهر!",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "name": "فاطمة خوري",
+          "company": "مكتب قانوني",
+          "role": "شريكة",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-2.webp",
+          "text": "روبوت الذكاء الاصطناعي الذي طوروه لنا يتعامل مع 80% من استفسارات عملائنا. توفير حقيقي للوقت والكفاءة!",
+          "rating": 5
+        },
+        {
+          "id": 3,
+          "name": "محمد سعيد",
+          "company": "وكالة عقارية",
+          "role": "المالك",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-3.webp",
+          "text": "محترفون وسريعون وحساسون. فهموا احتياجاتنا وقدموا بالضبط ما كنا ننتظره.",
+          "rating": 5
+        },
+        {
+          "id": 4,
+          "name": "ليلى حمزة",
+          "company": "شركة ناشئة في التكنولوجيا",
+          "role": "المؤسسة",
+          "image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663516525360/4hpyp6cFQoUMhJDdYCbaxY/testimonial-4.webp",
+          "text": "أفضل استثمار لشركتنا الناشئة. خبرتهم في تحسين محركات البحث وضعتنا في الصفحة الأولى من جوجل في 3 أشهر.",
+          "rating": 5
+        }
+      ]
+    }
+  }
+}

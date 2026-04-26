@@ -1,0 +1,458 @@
+{
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "services": "Services",
+      "portfolio": "Portefeuille",
+      "blog": "Blog",
+      "contact": "Nous Contacter"
+    },
+    "hero": {
+      "title": "Transformation Numérique",
+      "subtitle": "Agence de transformation digitale en Algérie",
+      "description": "Créons ensemble votre présence numérique. Sites web, boutiques en ligne, chatbots IA et formation digitale pour les entreprises algériennes.",
+      "cta": "Commencer Maintenant",
+      "stats": [
+        { "number": "+40", "label": "Projets Réalisés" },
+        { "number": "6", "label": "Wilayas Servies" },
+        { "number": "100%", "label": "Satisfaction Clients" },
+        { "number": "12 mois", "label": "Expérience Pratique" }
+      ]
+    },
+    "whyUs": {
+      "title": "Pourquoi Nous Choisir ?",
+      "subtitle": "CASTI OCTUPUS combine expertise technique et compréhension du marché algérien",
+      "features": [
+        {
+          "title": "Expertise Locale",
+          "description": "Nous comprenons les défis uniques du marché numérique algérien"
+        },
+        {
+          "title": "Solutions Complètes",
+          "description": "Du design à la mise en ligne, nous gérons tout pour vous"
+        },
+        {
+          "title": "Support Continu",
+          "description": "Accompagnement après le lancement pour assurer votre succès"
+        },
+        {
+          "title": "Prix Compétitifs",
+          "description": "Tarifs adaptés aux entreprises algériennes, sans compromis sur la qualité"
+        }
+      ]
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Solutions numériques complètes pour votre entreprise",
+      "items": [
+        {
+          "id": "websites",
+          "title": "Création de Sites Web",
+          "description": "Sites web professionnels, modernes et optimisés pour les moteurs de recherche",
+          "icon": "🌐",
+          "price": "À partir de 55,000 DA"
+        },
+        {
+          "id": "ecommerce",
+          "title": "Boutiques en Ligne",
+          "description": "Boutiques e-commerce intégrées avec paiement Baridi mob et CIB",
+          "icon": "🛍️",
+          "price": "À partir de 120,000 DA"
+        },
+        {
+          "id": "chatbots",
+          "title": "Chatbots IA",
+          "description": "Assistants IA pour répondre aux clients 24/7 et automatiser vos processus",
+          "icon": "🤖",
+          "price": "À partir de 80,000 DA"
+        },
+        {
+          "id": "training",
+          "title": "Formation Numérique",
+          "description": "Formations pratiques en marketing digital, e-commerce et outils IA",
+          "icon": "🎓",
+          "price": "À partir de 8,000 DA/session"
+        }
+      ]
+    },
+    "packages": {
+      "title": "Nos Forfaits",
+      "subtitle": "Forfaits flexibles adaptés à la croissance de votre entreprise",
+      "items": [
+        {
+          "name": "Forfait Démarrage",
+          "icon": "🌱",
+          "price": "55,000 DA",
+          "unit": "Paiement unique",
+          "features": [
+            "Site web 5 pages",
+            "Design personnalisé",
+            "Hébergement 1 mois gratuit",
+            "SEO basique",
+            "1 session de formation",
+            "Support 30 jours"
+          ]
+        },
+        {
+          "name": "Forfait Croissance",
+          "icon": "🚀",
+          "price": "120,000 DA",
+          "unit": "Paiement unique",
+          "featured": true,
+          "features": [
+            "Boutique e-commerce complète",
+            "Intégration Baridi mob/CIB",
+            "Chatbot IA 1 mois gratuit",
+            "Formation équipe (3 sessions)",
+            "Gestion campagne publicitaire",
+            "Support 90 jours complet"
+          ]
+        },
+        {
+          "name": "Forfait Transformation Complète",
+          "icon": "🏆",
+          "price": "200,000 DA",
+          "unit": "+ 25,000 DA/mois",
+          "features": [
+            "Site web + Boutique e-commerce",
+            "Chatbot IA personnalisé",
+            "Formation équipe complète",
+            "Stratégie marketing complète",
+            "Gestion contenu 3 mois",
+            "Accompagnement permanent"
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "Notre Portefeuille",
+      "subtitle": "Projets réels pour des clients réels à travers l'Algérie",
+      "filters": ["Tous", "Sites Web", "E-commerce", "IA", "Formation"],
+      "projects": [
+        {
+          "id": 1,
+          "category": "ecommerce",
+          "title": "Boutique Mode Chnoua — Tipaza",
+          "description": "Boutique vêtements féminins complète avec paiement Baridi mob et catalogue +200 produits",
+          "tags": ["WordPress", "WooCommerce", "Baridi mob"]
+        },
+        {
+          "id": 2,
+          "category": "ai",
+          "title": "Chatbot Clinique Médicale — Blida",
+          "description": "Assistant IA répondant aux questions des patients et réservant automatiquement les rendez-vous",
+          "tags": ["Chatbot IA", "WhatsApp", "Calendrier"]
+        },
+        {
+          "id": 3,
+          "category": "website",
+          "title": "Site Cabinet Comptable — Boumerdès",
+          "description": "Site professionnel avec section blog fiscal et pages services détaillées",
+          "tags": ["React", "SEO", "Blog"]
+        },
+        {
+          "id": 4,
+          "category": "ecommerce",
+          "title": "Commandes en Ligne — Restaurant Chaoui",
+          "description": "Système de commandes et livraison intégré avec suivi et notifications WhatsApp",
+          "tags": ["Food Order", "WhatsApp API", "CIB"]
+        },
+        {
+          "id": 5,
+          "category": "training",
+          "title": "Formation Marketing Digital — Chambre Commerce Tipaza",
+          "description": "Programme de formation pour 20 commerçants sur Facebook Ads et e-commerce",
+          "tags": ["Facebook Ads", "E-commerce", "SEO"]
+        },
+        {
+          "id": 6,
+          "category": "ai",
+          "title": "Agent IA Support Technique — Entreprise Services",
+          "description": "Agent IA résolvant les problèmes clients et escaladant les cas complexes",
+          "tags": ["AI Agent", "Automation", "CRM"]
+        }
+      ]
+    },
+    "blog": {
+      "title": "Notre Blog",
+      "subtitle": "Articles, guides pratiques et conseils de transformation numérique",
+      "articles": [
+        {
+          "id": 1,
+          "title": "Comment Créer une Boutique E-commerce Rentable en Algérie",
+          "category": "E-commerce",
+          "excerpt": "Guide complet pour lancer votre boutique en ligne avec les meilleures pratiques...",
+          "date": "2024-04-10"
+        },
+        {
+          "id": 2,
+          "title": "Chatbots IA : Automatiser le Service Client",
+          "category": "IA",
+          "excerpt": "Découvrez comment les chatbots IA peuvent transformer votre relation client...",
+          "date": "2024-04-08"
+        },
+        {
+          "id": 3,
+          "title": "SEO Local : Se Faire Trouver sur Google en Algérie",
+          "category": "SEO",
+          "excerpt": "Stratégies SEO adaptées au marché algérien pour augmenter votre visibilité...",
+          "date": "2024-04-05"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "subtitle": "Discutons de votre projet de transformation numérique",
+      "form": {
+        "name": "Nom Complet",
+        "email": "Email",
+        "phone": "Téléphone",
+        "company": "Entreprise",
+        "subject": "Sujet",
+        "message": "Message",
+        "submit": "Envoyer le Message"
+      },
+      "info": {
+        "phone": "+213 (0) 555 123 456",
+        "email": "contact@casti-octupus.dz",
+        "wilayas": "Tipaza, Blida, Boumerdès, Alger, Médéa, Ain Defla"
+      }
+    },
+    "footer": {
+      "tagline": "Transformons ensemble votre présence numérique",
+      "links": {
+        "company": ["À Propos", "Services", "Portefeuille", "Blog"],
+        "resources": ["Documentation", "FAQ", "Guides", "Tutoriels"],
+        "legal": ["Politique de Confidentialité", "Conditions d'Utilisation", "Mentions Légales"]
+      }
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "services": "الخدمات",
+      "portfolio": "المحفظة",
+      "blog": "المدونة",
+      "contact": "تواصل معنا"
+    },
+    "hero": {
+      "title": "التحول الرقمي",
+      "subtitle": "وكالة التحول الرقمي — الجزائر",
+      "description": "لننشئ معاً حضورك الرقمي. مواقع ويب، متاجر إلكترونية، روبوتات ذكية وتكوين رقمي للشركات الجزائرية.",
+      "cta": "ابدأ الآن",
+      "stats": [
+        { "number": "+40", "label": "مشروع مُنجز" },
+        { "number": "6", "label": "ولايات مُخدَّمة" },
+        { "number": "100%", "label": "رضا العملاء" },
+        { "number": "12 شهر", "label": "خبرة عملية" }
+      ]
+    },
+    "whyUs": {
+      "title": "لماذا تختارنا؟",
+      "subtitle": "كاستي أوكتوبس تجمع بين الخبرة التقنية وفهم السوق الجزائري",
+      "features": [
+        {
+          "title": "خبرة محلية",
+          "description": "نفهم التحديات الفريدة للسوق الرقمي الجزائري"
+        },
+        {
+          "title": "حلول شاملة",
+          "description": "من التصميم إلى الإطلاق، نتولى كل شيء من أجلك"
+        },
+        {
+          "title": "دعم مستمر",
+          "description": "مرافقة بعد الإطلاق لضمان نجاحك"
+        },
+        {
+          "title": "أسعار تنافسية",
+          "description": "أسعار مناسبة للشركات الجزائرية بدون المساس بالجودة"
+        }
+      ]
+    },
+    "services": {
+      "title": "خدماتنا",
+      "subtitle": "حلول رقمية شاملة لشركتك",
+      "items": [
+        {
+          "id": "websites",
+          "title": "إنشاء مواقع ويب",
+          "description": "مواقع ويب احترافية وحديثة ومُحسَّنة لمحركات البحث",
+          "icon": "🌐",
+          "price": "من 55,000 دج"
+        },
+        {
+          "id": "ecommerce",
+          "title": "متاجر إلكترونية",
+          "description": "متاجر إلكترونية متكاملة مع دفع بريدي موب و CIB",
+          "icon": "🛍️",
+          "price": "من 120,000 دج"
+        },
+        {
+          "id": "chatbots",
+          "title": "روبوتات ذكية",
+          "description": "مساعدات ذكية للرد على العملاء 24/7 وأتمتة عملياتك",
+          "icon": "🤖",
+          "price": "من 80,000 دج"
+        },
+        {
+          "id": "training",
+          "title": "تكوين رقمي",
+          "description": "تكوينات عملية في التسويق الرقمي والتجارة الإلكترونية وأدوات الذكاء الاصطناعي",
+          "icon": "🎓",
+          "price": "من 8,000 دج/جلسة"
+        }
+      ]
+    },
+    "packages": {
+      "title": "الباقات",
+      "subtitle": "باقات مرنة مُصمَّمة حسب مراحل نمو مشروعك",
+      "items": [
+        {
+          "name": "باقة الانطلاقة",
+          "icon": "🌱",
+          "price": "55,000 دج",
+          "unit": "دفعة واحدة",
+          "features": [
+            "موقع ويب 5 صفحات",
+            "تصميم مخصص",
+            "استضافة شهر مجاني",
+            "SEO أساسي",
+            "جلسة تدريب واحدة",
+            "دعم 30 يوم"
+          ]
+        },
+        {
+          "name": "باقة النمو",
+          "icon": "🚀",
+          "price": "120,000 دج",
+          "unit": "دفعة واحدة",
+          "featured": true,
+          "features": [
+            "متجر إلكتروني كامل",
+            "دمج بريدي موب/CIB",
+            "روبوت ذكي شهر مجاني",
+            "تدريب الفريق (3 جلسات)",
+            "إدارة حملة إعلانية",
+            "دعم 90 يوم كامل"
+          ]
+        },
+        {
+          "name": "باقة التحول الكامل",
+          "icon": "🏆",
+          "price": "200,000 دج",
+          "unit": "+ 25,000 دج/شهر",
+          "features": [
+            "موقع ويب + متجر إلكتروني",
+            "روبوت ذكي مخصص",
+            "تكوين شامل للفريق",
+            "استراتيجية تسويق كاملة",
+            "إدارة محتوى 3 أشهر",
+            "مرافقة دائمة ومتابعة"
+          ]
+        }
+      ]
+    },
+    "portfolio": {
+      "title": "محفظة أعمالنا",
+      "subtitle": "مشاريع حقيقية لعملاء حقيقيين من الولايات الوسطى للجزائر",
+      "filters": ["الكل", "مواقع ويب", "متاجر إلكترونية", "ذكاء اصطناعي", "تكوين"],
+      "projects": [
+        {
+          "id": 1,
+          "category": "ecommerce",
+          "title": "متجر أزياء الشنوة — تيبازة",
+          "description": "متجر ملابس نسائية متكامل مع دفع بريدي موب وكتالوج +200 منتج",
+          "tags": ["WordPress", "WooCommerce", "بريدي موب"]
+        },
+        {
+          "id": 2,
+          "category": "ai",
+          "title": "روبوت عيادة طبية — البليدة",
+          "description": "مساعد ذكي يرد على استفسارات المرضى ويحجز المواعيد تلقائياً",
+          "tags": ["روبوت ذكي", "واتساب", "تقويم"]
+        },
+        {
+          "id": 3,
+          "category": "website",
+          "title": "موقع مكتب محاسبة — بومرداس",
+          "description": "موقع احترافي مع قسم المدونة الضريبية وصفحة الخدمات التفصيلية",
+          "tags": ["React", "SEO", "مدونة"]
+        },
+        {
+          "id": 4,
+          "category": "ecommerce",
+          "title": "طلبات أون لاين — مطعم الشاوية",
+          "description": "منظومة طلبات وتوصيل متكاملة مع تتبع الطلبات وإشعارات واتساب",
+          "tags": ["طلبات طعام", "واتساب API", "CIB"]
+        },
+        {
+          "id": 5,
+          "category": "training",
+          "title": "دورة التسويق الرقمي — غرفة تجارة تيبازة",
+          "description": "برنامج تكويني لـ 20 تاجر حول Facebook Ads وإدارة المتاجر الإلكترونية",
+          "tags": ["Facebook Ads", "تجارة إلكترونية", "SEO"]
+        },
+        {
+          "id": 6,
+          "category": "ai",
+          "title": "وكيل ذكي للدعم التقني — شركة خدمات",
+          "description": "عميل ذكي يحل مشاكل العملاء ويُصعّد الحالات المعقدة للفريق البشري",
+          "tags": ["وكيل ذكي", "أتمتة", "CRM"]
+        }
+      ]
+    },
+    "blog": {
+      "title": "المدونة",
+      "subtitle": "مقالات وأدلة عملية ونصائح التحول الرقمي",
+      "articles": [
+        {
+          "id": 1,
+          "title": "كيفية إنشاء متجر إلكتروني مربح في الجزائر",
+          "category": "تجارة إلكترونية",
+          "excerpt": "دليل شامل لإطلاق متجرك الإلكتروني مع أفضل الممارسات...",
+          "date": "2024-04-10"
+        },
+        {
+          "id": 2,
+          "title": "الروبوتات الذكية: أتمتة خدمة العملاء",
+          "category": "ذكاء اصطناعي",
+          "excerpt": "اكتشف كيف يمكن للروبوتات الذكية تحويل علاقتك مع العملاء...",
+          "date": "2024-04-08"
+        },
+        {
+          "id": 3,
+          "title": "SEO محلي: كيف يجدك عملاؤك على Google",
+          "category": "SEO",
+          "excerpt": "استراتيجيات SEO مخصصة للسوق الجزائري لزيادة رؤيتك...",
+          "date": "2024-04-05"
+        }
+      ]
+    },
+    "contact": {
+      "title": "تواصل معنا",
+      "subtitle": "لنناقش مشروعك في التحول الرقمي",
+      "form": {
+        "name": "الاسم الكامل",
+        "email": "البريد الإلكتروني",
+        "phone": "رقم الهاتف",
+        "company": "الشركة",
+        "subject": "الموضوع",
+        "message": "الرسالة",
+        "submit": "إرسال الرسالة"
+      },
+      "info": {
+        "phone": "+213 (0) 555 123 456",
+        "email": "contact@casti-octupus.dz",
+        "wilayas": "تيبازة، البليدة، بومرداس، الجزائر، المدية، عين الدفلى"
+      }
+    },
+    "footer": {
+      "tagline": "لننقل معاً حضورك الرقمي إلى المستقبل",
+      "links": {
+        "company": ["من نحن", "الخدمات", "المحفظة", "المدونة"],
+        "resources": ["التوثيق", "الأسئلة الشائعة", "الأدلة", "الدروس"],
+        "legal": ["سياسة الخصوصية", "شروط الاستخدام", "الإشعارات القانونية"]
+      }
+    }
+  }
+}

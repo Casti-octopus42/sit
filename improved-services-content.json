@@ -1,0 +1,607 @@
+{
+  "fr": {
+    "serviceCategories": [
+      {
+        "id": "web-ecommerce",
+        "title": "🌐 Services Numériques & E-Commerce",
+        "subtitle": "Transformation digitale complète pour votre entreprise",
+        "description": "Créez votre présence en ligne avec des solutions web modernes, e-commerce haute conversion et applications web personnalisées. Nous accompagnons les entreprises algériennes dans leur transformation numérique avec des technologies éprouvées et un support local.",
+        "useCases": [
+          "Petits commerces et boutiques",
+          "PME/PMI en croissance",
+          "Grandes entreprises",
+          "Administrations publiques"
+        ],
+        "subServices": [
+          {
+            "name": "Sites vitrines modernes",
+            "description": "Présentation professionnelle de votre entreprise avec design responsive et SEO optimisé"
+          },
+          {
+            "name": "E-commerce haute conversion",
+            "description": "Boutiques en ligne avec panier, paiements SATIM/Edahabia et gestion stock automatique"
+          },
+          {
+            "name": "Applications web custom",
+            "description": "Solutions sur mesure adaptées à vos processus métier spécifiques"
+          },
+          {
+            "name": "Optimisation SEO",
+            "description": "Positionnement Google pour générer du trafic organique qualifié"
+          },
+          {
+            "name": "Design responsive mobile",
+            "description": "Adaptation parfaite sur tous les appareils (desktop, tablette, mobile)"
+          },
+          {
+            "name": "Paiements sécurisés",
+            "description": "Intégration SATIM, Edahabia et autres passerelles de paiement locales"
+          },
+          {
+            "name": "Hébergement & domaine",
+            "description": "Infrastructure sécurisée avec uptime 99.9% garanti"
+          },
+          {
+            "name": "Support technique inclus",
+            "description": "Assistance 24/7 pour la maintenance et les mises à jour"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Starter",
+            "price": "250,000 DA",
+            "features": [
+              "Site vitrine 5-8 pages",
+              "Design responsive",
+              "Formulaires contact",
+              "Blog basique",
+              "SEO de base",
+              "1 mois support",
+              "Hébergement 1 an"
+            ]
+          },
+          {
+            "name": "Professional",
+            "price": "800,000 DA",
+            "popular": true,
+            "features": [
+              "E-commerce jusqu'à 100 produits",
+              "Panier & paiement SATIM",
+              "Gestion stock automatique",
+              "Analytics avancé",
+              "SEO complet",
+              "3 mois support",
+              "Hébergement 1 an"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "À partir de 2,000,000 DA",
+            "features": [
+              "E-commerce illimité",
+              "Multi-langue/devise",
+              "Intégration ERP/CRM",
+              "Automation marketing",
+              "Optimisation conversion",
+              "6-12 mois support",
+              "Hébergement premium"
+            ]
+          }
+        ],
+        "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "SATIM", "AWS"],
+        "price_range": "250,000 - 5,000,000+ DA"
+      },
+      {
+        "id": "design-branding",
+        "title": "🎨 Design Graphique & Branding",
+        "subtitle": "Créez une identité visuelle mémorable",
+        "description": "Donnez vie à votre marque avec un design professionnel et cohérent. Du logo au branding complet, nous créons une identité visuelle qui vous distingue de la concurrence et renforce la confiance de vos clients.",
+        "useCases": [
+          "Startups et nouvelles entreprises",
+          "Rebranding d'entreprises existantes",
+          "PME cherchant une identité visuelle",
+          "Agences et consultants"
+        ],
+        "subServices": [
+          {
+            "name": "Design logos et branding",
+            "description": "Création de logos uniques et guidelines de marque complets"
+          },
+          {
+            "name": "Cartes de visite",
+            "description": "Impression premium avec finitions spécialisées"
+          },
+          {
+            "name": "Flyers & posters",
+            "description": "Création et impression de matériels marketing"
+          },
+          {
+            "name": "Impression couleur/grand format",
+            "description": "Bandeaux, affiches et supports publicitaires"
+          },
+          {
+            "name": "Finitions spécialisées",
+            "description": "Vernis sélectif, gaufrage, dorure et pelliculage"
+          },
+          {
+            "name": "Délai express 24-48h",
+            "description": "Livraison rapide pour vos projets urgents"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Starter",
+            "price": "50,000 DA",
+            "features": [
+              "Logo simple",
+              "Carte de visite",
+              "Papier en-tête",
+              "Fichiers sources"
+            ]
+          },
+          {
+            "name": "Professional",
+            "price": "150,000 DA",
+            "popular": true,
+            "features": [
+              "Logo + variantes",
+              "Guidelines complets",
+              "Cartes de visite premium",
+              "Flyers A5",
+              "Papier en-tête",
+              "Enveloppes"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "500,000 DA",
+            "features": [
+              "Branding complet",
+              "Logo + variantes",
+              "Guidelines détaillés",
+              "Tous supports print",
+              "Templates digitaux",
+              "Consultation illimitée"
+            ]
+          }
+        ],
+        "technologies": ["Figma", "Adobe Creative Suite", "Illustrator", "Photoshop"],
+        "price_range": "8,000 - 500,000 DA"
+      },
+      {
+        "id": "informatique-it",
+        "title": "💻 Informatique & Solutions IT",
+        "subtitle": "Infrastructure IT robuste et sécurisée",
+        "description": "Modernisez votre infrastructure informatique avec des solutions professionnelles. De la vente d'équipements à la maintenance 24/7, nous assurons la continuité de votre activité numérique.",
+        "useCases": [
+          "PME cherchant à moderniser leur IT",
+          "Entreprises nécessitant une maintenance",
+          "Organisations critiques",
+          "Administrations publiques"
+        ],
+        "subServices": [
+          {
+            "name": "Vente ordinateurs",
+            "description": "Ordinateurs Dell, Lenovo, HP configurés sur mesure"
+          },
+          {
+            "name": "Serveurs & stockage",
+            "description": "Infrastructure serveur et solutions de stockage sécurisé"
+          },
+          {
+            "name": "Réseaux LAN/WIFI professionnels",
+            "description": "Installation et configuration de réseaux performants"
+          },
+          {
+            "name": "Cybersécurité & Firewall",
+            "description": "Protection contre les menaces et accès non autorisés"
+          },
+          {
+            "name": "Maintenance IT 24/7",
+            "description": "Support technique permanent pour minimiser les arrêts"
+          },
+          {
+            "name": "Audit de sécurité",
+            "description": "Évaluation complète de votre infrastructure IT"
+          },
+          {
+            "name": "Formation utilisateurs",
+            "description": "Formation pratique pour optimiser l'utilisation des outils"
+          },
+          {
+            "name": "Monitoring infrastructure",
+            "description": "Surveillance continue de vos systèmes"
+          }
+        ],
+        "packages": [
+          {
+            "name": "PME",
+            "price": "150,000 - 500,000 DA",
+            "features": [
+              "5-10 postes informatiques",
+              "Serveur NAS",
+              "Réseau WIFI",
+              "Firewall",
+              "Support 24/5",
+              "Maintenance mensuelle"
+            ]
+          },
+          {
+            "name": "Entreprise",
+            "price": "500,000 - 2,000,000 DA",
+            "popular": true,
+            "features": [
+              "Infrastructure complète",
+              "Serveurs redondants",
+              "Backup automatique",
+              "Cybersécurité avancée",
+              "Support 24/7",
+              "Audit mensuel"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "Sur devis",
+            "features": [
+              "Infrastructure custom",
+              "Haute disponibilité",
+              "Disaster recovery",
+              "Compliance certifications",
+              "Support dédié",
+              "SLA garanti"
+            ]
+          }
+        ],
+        "technologies": ["Cisco", "Fortinet", "Hikvision", "Dell", "Lenovo", "VMware"],
+        "price_range": "150,000 - 2,000,000 DA"
+      },
+      {
+        "id": "securite-surveillance",
+        "title": "🔒 Sécurité & Surveillance",
+        "subtitle": "Protégez vos locaux 24/7",
+        "description": "Systèmes de surveillance professionnels avec caméras haute résolution et monitoring cloud. Sécurisez vos locaux avec une technologie fiable et un support technique réactif.",
+        "useCases": [
+          "Petits commerces",
+          "PME et bureaux",
+          "Banques et institutions financières",
+          "Usines et entrepôts"
+        ],
+        "subServices": [
+          {
+            "name": "Installation CCTV",
+            "description": "Installation de systèmes CCTV IP et analogiques"
+          },
+          {
+            "name": "Caméras haute résolution",
+            "description": "Caméras 2MP à 8MP pour une qualité d'image optimale"
+          },
+          {
+            "name": "Monitoring cloud 24/7",
+            "description": "Accès à distance et alertes en temps réel"
+          },
+          {
+            "name": "Détection intelligente mouvements",
+            "description": "Alertes automatiques en cas de mouvement détecté"
+          },
+          {
+            "name": "Accès mobile iOS/Android",
+            "description": "Consultez vos caméras depuis votre smartphone"
+          },
+          {
+            "name": "Alertes SMS/Email",
+            "description": "Notifications instantanées en cas d'incident"
+          },
+          {
+            "name": "Contrôle d'accès biométrique",
+            "description": "Gestion des accès par empreinte ou reconnaissance faciale"
+          },
+          {
+            "name": "Support 24/7",
+            "description": "Assistance technique permanente"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Petit Commerce",
+            "price": "80,000 - 150,000 DA",
+            "features": [
+              "2-4 caméras IP 2MP",
+              "NVR 4 canaux",
+              "Écran monitoring 21\"",
+              "Installation + câblage",
+              "Logiciel + app mobile",
+              "Stockage 30 jours"
+            ]
+          },
+          {
+            "name": "PME",
+            "price": "350,000 - 600,000 DA",
+            "popular": true,
+            "features": [
+              "5-8 caméras IP 4MP",
+              "NVR 8 canaux",
+              "2x écrans monitoring",
+              "Installation professionnelle",
+              "Logiciel avancé",
+              "Stockage 60 jours",
+              "Support 24/7"
+            ]
+          },
+          {
+            "name": "Enterprise",
+            "price": "1,200,000+ DA",
+            "features": [
+              "9+ caméras custom",
+              "Caméras PTZ",
+              "Serveur redondant",
+              "Stockage illimité SSD",
+              "Analytics avancé",
+              "Centre supervision",
+              "Support dédié"
+            ]
+          }
+        ],
+        "technologies": ["Hikvision", "Dahua", "Axis", "Uniview", "Bosch"],
+        "price_range": "80,000 - 2,000,000 DA"
+      },
+      {
+        "id": "formation-conseil",
+        "title": "📚 Formation & Conseil",
+        "subtitle": "Développez les compétences de votre équipe",
+        "description": "Formations pratiques et accompagnement stratégique pour transformer votre organisation. De la bureautique à la transformation digitale, nous adaptons nos programmes à vos besoins spécifiques.",
+        "useCases": [
+          "Entreprises en transformation digitale",
+          "Équipes IT nécessitant une montée en compétences",
+          "Administrations publiques",
+          "Centres de formation"
+        ],
+        "subServices": [
+          {
+            "name": "Formation IT/Bureautique",
+            "description": "Formations pratiques sur les outils informatiques"
+          },
+          {
+            "name": "Workshops personnalisés",
+            "description": "Sessions de formation adaptées à votre contexte"
+          },
+          {
+            "name": "Consulting stratégique",
+            "description": "Accompagnement dans vos projets de transformation"
+          },
+          {
+            "name": "Support utilisateurs",
+            "description": "Assistance continue pour l'adoption des nouveaux outils"
+          },
+          {
+            "name": "Accompagnement digital",
+            "description": "Coaching pour la transition digitale"
+          },
+          {
+            "name": "Certification Microsoft",
+            "description": "Préparation aux certifications Microsoft"
+          },
+          {
+            "name": "Coaching 1-on-1",
+            "description": "Mentorat personnalisé pour cadres et managers"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Formation Groupe",
+            "price": "50,000 - 200,000 DA",
+            "features": [
+              "Jusqu'à 15 participants",
+              "2-5 jours de formation",
+              "Certificat de participation",
+              "Supports de cours",
+              "Exercices pratiques"
+            ]
+          },
+          {
+            "name": "Consulting",
+            "price": "300,000 - 800,000 DA",
+            "popular": true,
+            "features": [
+              "Audit initial",
+              "Plan d'action détaillé",
+              "Accompagnement 3 mois",
+              "Rapports mensuels",
+              "Formation équipe"
+            ]
+          },
+          {
+            "name": "Programme Complet",
+            "price": "1,000,000+ DA",
+            "features": [
+              "Diagnostic complet",
+              "Stratégie personnalisée",
+              "Accompagnement 6-12 mois",
+              "Formation continue",
+              "Support dédié",
+              "Certification"
+            ]
+          }
+        ],
+        "technologies": ["Microsoft 365", "Google Workspace", "Agile", "Scrum"],
+        "price_range": "50,000 - 1,000,000 DA"
+      },
+      {
+        "id": "commerce-fournitures",
+        "title": "🛍️ Vente Produits & Fournitures",
+        "subtitle": "Votre fournisseur de confiance",
+        "description": "Large gamme de produits informatiques, électroniques et fournitures de bureau. Stock permanent, livraison rapide et service client réactif pour les professionnels et particuliers.",
+        "useCases": [
+          "Petits commerces",
+          "Écoles et établissements",
+          "Entreprises",
+          "Particuliers"
+        ],
+        "subServices": [
+          {
+            "name": "Vente ordinateurs & mobiles",
+            "description": "Ordinateurs, laptops et téléphones de marques reconnues"
+          },
+          {
+            "name": "Accessoires électroniques",
+            "description": "Souris, claviers, câbles et accessoires informatiques"
+          },
+          {
+            "name": "Réparation appareils",
+            "description": "Service de réparation rapide et fiable"
+          },
+          {
+            "name": "Papeterie & fournitures scolaires",
+            "description": "Complète gamme de fournitures de bureau et scolaires"
+          },
+          {
+            "name": "Livres & références",
+            "description": "Sélection de livres techniques et de référence"
+          },
+          {
+            "name": "Stock permanent",
+            "description": "Disponibilité constante des produits"
+          },
+          {
+            "name": "Vente en gros",
+            "description": "Réductions volume pour les commandes importantes"
+          },
+          {
+            "name": "Service click & collect",
+            "description": "Commandez en ligne, retirez en magasin"
+          }
+        ],
+        "packages": [
+          {
+            "name": "Particulier",
+            "price": "Variables",
+            "features": [
+              "Accès au stock complet",
+              "Livraison gratuite +30,000 DA",
+              "Garantie constructeur",
+              "Support client"
+            ]
+          },
+          {
+            "name": "Professionnel",
+            "price": "Réductions volume",
+            "popular": true,
+            "features": [
+              "Compte professionnel",
+              "Réductions 10-20%",
+              "Livraison prioritaire",
+              "Factures mensuelles",
+              "Support dédié"
+            ]
+          },
+          {
+            "name": "B2B Entreprise",
+            "price": "Sur devis",
+            "features": [
+              "Réductions 20-40%",
+              "Livraison gratuite",
+              "Conditions paiement",
+              "Account manager",
+              "Support prioritaire"
+            ]
+          }
+        ],
+        "technologies": ["Dell", "Lenovo", "HP", "Apple", "Samsung"],
+        "price_range": "Variables par article"
+      }
+    ]
+  },
+  "ar": {
+    "serviceCategories": [
+      {
+        "id": "web-ecommerce",
+        "title": "🌐 الخدمات الرقمية والتجارة الإلكترونية",
+        "subtitle": "التحول الرقمي الكامل لشركتك",
+        "description": "أنشئ وجودك على الإنترنت من خلال حلول ويب حديثة وتجارة إلكترونية عالية التحويل وتطبيقات ويب مخصصة. نحن نرافق الشركات الجزائرية في تحولها الرقمي باستخدام تقنيات مثبتة والدعم المحلي.",
+        "useCases": [
+          "المتاجر الصغيرة والمحلات",
+          "الشركات الصغيرة والمتوسطة",
+          "الشركات الكبرى",
+          "الإدارات العامة"
+        ],
+        "subServices": [
+          {
+            "name": "مواقع عرض حديثة",
+            "description": "عرض احترافي لشركتك مع تصميم متجاوب وتحسين محركات البحث"
+          },
+          {
+            "name": "متاجر إلكترونية عالية التحويل",
+            "description": "متاجر على الإنترنت مع سلة تسوق ودفع SATIM/Edahabia وإدارة المخزون التلقائية"
+          },
+          {
+            "name": "تطبيقات ويب مخصصة",
+            "description": "حلول مخصصة تتناسب مع عملياتك التجارية المحددة"
+          },
+          {
+            "name": "تحسين محركات البحث",
+            "description": "تصنيف جوجل لتوليد حركة مرور عضوية مؤهلة"
+          },
+          {
+            "name": "تصميم متجاوب للهاتف المحمول",
+            "description": "التكيف المثالي على جميع الأجهزة (سطح المكتب والجهاز اللوحي والهاتف المحمول)"
+          },
+          {
+            "name": "الدفع الآمن",
+            "description": "تكامل SATIM و Edahabia وبوابات دفع محلية أخرى"
+          },
+          {
+            "name": "الاستضافة والنطاق",
+            "description": "بنية تحتية آمنة مع وقت تشغيل مضمون بنسبة 99.9%"
+          },
+          {
+            "name": "الدعم الفني المضمن",
+            "description": "المساعدة 24/7 للصيانة والتحديثات"
+          }
+        ],
+        "packages": [
+          {
+            "name": "البدء",
+            "price": "250,000 دج",
+            "features": [
+              "موقع عرض 5-8 صفحات",
+              "تصميم متجاوب",
+              "نماذج الاتصال",
+              "مدونة أساسية",
+              "تحسين محركات البحث الأساسي",
+              "دعم شهر واحد",
+              "استضافة سنة واحدة"
+            ]
+          },
+          {
+            "name": "احترافي",
+            "price": "800,000 دج",
+            "popular": true,
+            "features": [
+              "متجر إلكتروني يصل إلى 100 منتج",
+              "سلة التسوق والدفع SATIM",
+              "إدارة المخزون التلقائية",
+              "تحليلات متقدمة",
+              "تحسين محركات البحث الكامل",
+              "دعم 3 أشهر",
+              "استضافة سنة واحدة"
+            ]
+          },
+          {
+            "name": "مؤسسة",
+            "price": "من 2,000,000 دج",
+            "features": [
+              "متجر إلكتروني غير محدود",
+              "لغات ومحافظ متعددة",
+              "تكامل ERP/CRM",
+              "أتمتة التسويق",
+              "تحسين معدل التحويل",
+              "دعم 6-12 شهر",
+              "استضافة متميزة"
+            ]
+          }
+        ],
+        "technologies": ["React", "Node.js", "PostgreSQL", "Stripe", "SATIM", "AWS"],
+        "price_range": "250,000 - 5,000,000+ دج"
+      }
+    ]
+  }
+}
